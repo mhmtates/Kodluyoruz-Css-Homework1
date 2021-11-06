@@ -1,1 +1,1 @@
-Kodluyoruz Front End 101 Eğitimi Css 1.Ödevi
+Kodluyoruz Front End 101 Eğitimi Css Ödev 1
