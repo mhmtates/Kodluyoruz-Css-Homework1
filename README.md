@@ -1,2 +1,2 @@
 # Kodluyoruz Front End 101 Eğitimi Css Ödev 1
-Anasayfa,Ürünlerimiz ve Hakkımızda sayfalarından oluşan müzik aletleriyle ilgili bir ödev yaptım.
+Css'in bazı özelliklerini kullanarak anasayfa,ürünlerimiz ve hakkımızda sayfalarından oluşan müzik aletleriyle(gitar,piyano,keman,davul) ilgili bir ödev yaptım.
